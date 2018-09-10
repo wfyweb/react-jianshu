@@ -1,0 +1,1 @@
+export const CHENGE_DETAIL_DATA = 'detail/chage_detail_data'
