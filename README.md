@@ -3,7 +3,7 @@
 **react全家桶仿简书**
 
 可以点击
-[在线预览](http://wfyweb.com/jianshu/)查看简述效果
+[在线预览](http://wfyweb.com/jianshu/) 查看效果
 
 
 ## 技术栈
