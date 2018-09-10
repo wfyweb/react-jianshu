@@ -30,7 +30,7 @@
 
 ## 生产坏境打包
 
-1. `npm run bundle`
+1. `npm run build`
 
 2. 拷贝`dist`文件夹至服务器即可。
 
